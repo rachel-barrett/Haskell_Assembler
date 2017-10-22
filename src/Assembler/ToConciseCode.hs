@@ -1,4 +1,4 @@
-module ToConciseCode
+module Assembler.ToConciseCode
  (toConciseCode)
  where
 

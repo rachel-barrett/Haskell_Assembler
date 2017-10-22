@@ -1,9 +1,9 @@
-module ToNoSymbolsCode
+module Assembler.ToNoSymbolsCode
  (toNoSymbolsCode)
  where
 
-import SymbolTable
-import RemoveSymbols
+import Assembler.SymbolTable
+import Assembler.RemoveSymbols
 
 toNoSymbolsCode :: String -> String
 -- replaces all symbols with addresses

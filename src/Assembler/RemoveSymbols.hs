@@ -1,4 +1,4 @@
-module RemoveSymbols
+module Assembler.RemoveSymbols
  (removeSymbols)
  where
 

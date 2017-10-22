@@ -1,4 +1,4 @@
-module SymbolTable
+module Assembler.SymbolTable
  (symbolTable)
  where
 

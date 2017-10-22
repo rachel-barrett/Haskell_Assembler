@@ -1,4 +1,4 @@
-module ToBinaryCode
+module Assembler.ToBinaryCode
  (toBinaryCode)
  where
 

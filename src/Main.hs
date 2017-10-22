@@ -1,8 +1,8 @@
 module Main (main) where
 
-import ToConciseCode -- for `toConciseCode`
-import ToNoSymbolsCode -- for `toNoSymbolsCode`
-import ToBinaryCode -- for `toBinaryCode`
+import Assembler.ToConciseCode -- for `toConciseCode`
+import Assembler.ToNoSymbolsCode -- for `toNoSymbolsCode`
+import Assembler.ToBinaryCode -- for `toBinaryCode`
 
 import System.Environment -- for `getArgs`
 import Control.Monad -- for `forM`
